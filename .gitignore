@@ -1,0 +1,42 @@
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea/*
+.env
+.htaccess
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Laravel specific
+#bootstrap/compiled.php
+/storage
+/vendor
+#app/storage/
+#public/storage
+#public/hot
+#public_html/storage
+#public_html/hot
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# vendor/composer/
+node_modules/
+npm-debug.log
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+*.zip

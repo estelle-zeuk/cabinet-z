@@ -1,0 +1,38 @@
+
+.explanation, .explanation_big {
+    font-size: 12px;
+    line-height: 14px;
+    color: #8d8d8d;
+    padding-bottom: 8px;
+}
+.formh2{
+    margin-left: -30px;
+    margin-right: -30px;
+    padding: 15px 30px 15px 30px;
+    border-bottom: solid 1px #E2E2E2;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+/*
+.submit-loading > img {
+    display: flex;
+    height: 100px;
+    width: 100px;
+}*/
+
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}
